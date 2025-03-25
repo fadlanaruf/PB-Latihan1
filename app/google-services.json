@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508329662817",
+    "project_id": "pb-fadlanaruf",
+    "storage_bucket": "pb-fadlanaruf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508329662817:android:790497c10cfdc6b1654d20",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJoRcc4PqAtkpKziRZmfaFGd5DuNdQcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
