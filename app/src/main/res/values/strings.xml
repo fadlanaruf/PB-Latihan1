@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyApplication</string>
+    <string name="app_logo_desc">Application logo</string>
+    <string name="home_icon_desc">Home icon</string>
+    <string name="profile_icon_desc">Profile icon</string>
+    <string name="settings_icon_desc">Settings icon</string>
+    <string name="back_button_desc">Back button</string>
+    <string name="home_desc">Home page</string>
+    <string name="profile_desc">Profile page</string>
+    <string name="settings_desc">Settings page</string>
 </resources>
